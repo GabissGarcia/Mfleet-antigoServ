@@ -1,6 +1,6 @@
 {
-  "name": "NewMobileFleet",
-  "short_name": "NewMobileFleet-Tlk",
+  "name": "MFleet",
+  "short_name": "MFleet",
   "start_url": "index.html",
   "display": "standalone",
   "icons": [{
