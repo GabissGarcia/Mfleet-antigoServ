@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget id="com.ionicframework.mfleet752726" version="2.2.6" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
-    <name>NewHPSFleet</name>
+    <name>MFleet</name>
     <description>Hps Tecnologia</description>
     <author email="ti@hpstecnologia.com" href="http://www.hpstecnologia.com.br">Hps Tecnologia Ti Team</author>
     <content src="index.html" />
